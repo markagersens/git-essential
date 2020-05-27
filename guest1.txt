@@ -1,1 +1,2 @@
 i am guest in ec2
+add a new lone
